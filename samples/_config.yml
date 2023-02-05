@@ -1,24 +1,30 @@
 remote_theme: dieghernan/chulapa
 
 
-repository: sandycho/sandycho.github.io
-url: "https://sandycho.github.io"
-baseurl: ""
+repository: dieghernan/chulapa
+url: "https://dieghernan.github.io"
+baseurl: "/chulapa"
 
-title: Queer Dance
-subtitle: Dance Company
-description: All about Queer Dance
+title: Chulapa
+subtitle: A full flexible Jekyll theme
+description: Template for creating free sites on Github Pages
 og_image: "./assets/img/site/banner.png"
 twitter_site: dhernangomez
 timezone: "Europe/Madrid"
 author:
-  name: Sandy Chuchuca
+  name: dieghernan
   avatar: ./assets/img/site/dieghernan-avatar.png
-  location: London, UK
+  location: Madrid, Spain
   links:
-    - url: https://github.com/sandycho/
+    - url: https://github.com/dieghernan/
       icon: "fab fa-github"
       label: GitHub
+    - url: https://dieghernan.github.io/
+      icon: fas fa-blog
+      label: Blog
+    - url: https://stackoverflow.com/users/7877917/dieghernan
+      icon: "fab fa-stack-overflow"
+      label: StackOverflow
 gtag_id:  UA-139034853-5
 search:
   provider: algolia
