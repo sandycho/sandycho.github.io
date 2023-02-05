@@ -13,7 +13,7 @@ show_sociallinks: false
 
 <section class="section-services row d-block mt-md-7 mb-md-7" id="#services">
   <h1 class="text-center mt-md-7 mb-md-7">SERVICES</h1>
-  <div class="d-inline-block d-md-inline-flex text-primary text-center">
+  <div class="d-inline-block d-md-inline-flex text-primary text-center mx-3 mx-lg-0">
     <div class="card border-dark mb-3 mr-md-3">
         <div class="card-header">Queer Salsa</div>
         <div class="card-body">
@@ -38,7 +38,7 @@ show_sociallinks: false
 
 <section class="row d-block mt-md-7 mb-md-7" id="newsletter">
   <h1 class="text-center mt-md-7 mb-md-7">STAY ON THE BEAT</h1>
-  <form>
+  <form class="row">
       <div class="form-group d-flex">
           <label for="staticEmail" class="col-sm-2 col-form-label">Email</label>
           <div class="col-sm-10">
