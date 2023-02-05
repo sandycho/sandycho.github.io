@@ -3,7 +3,7 @@ remote_theme: dieghernan/chulapa
 
 repository: sandycho/sandycho.github.io
 url: "https://sandycho.github.io"
-baseurl: "/queer-dance"
+baseurl: ""
 
 title: Queer Dance
 subtitle: Dance Company
